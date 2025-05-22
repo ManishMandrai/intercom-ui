@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💬 Intercom-Style AI Copilot Chat UI
 
-## Getting Started
+This project is a fully responsive Intercom-style customer support chat interface built using **React** and **Tailwind CSS**. The goal was to replicate the modern UI design seen in platforms like Intercom, including chat bubbles, assistant responses, user avatars, and interactive features like "Add to composer".
 
-First, run the development server:
+## 🔗 Live Demo
+
+👉 [View Deployed App on Vercel](https://vercel.com/manishmandrais-projects/intercom-ui/J93JxcLCbkB5DUhFpCnDrmJcZUXm)
+
+---
+
+## ✨ Features
+
+- ✅ Left sidebar with **AI Copilot / Details** tab switcher
+- ✅ Message bubbles with **avatar icons** and user labels
+- ✅ AI messages styled with **gradient backgrounds**
+- ✅ Highlighted phrases like **"Please note"**
+- ✅ **Add to composer** button styled with icons and outline
+- ✅ List of relevant source links with icons and hover effects
+- ✅ Persistent input box at the bottom
+- ✅ Mobile responsive and modern UI
+
+---
+
+## 🛠 Tech Stack
+
+- **React** (with Vite or CRA)
+- **Tailwind CSS**
+- **Vercel** (for deployment)
+
+---
+
+## 📁 Project Structure
+
+src/
+├── components/
+│ └── CopilotPanel.jsx
+├── App.jsx
+└── main.jsx
+
+
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
 
 ```bash
+git clone https://github.com/yourusername/intercom-ui
+cd intercom-ui
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Live Site: https://vercel.com/manishmandrais-projects/intercom-ui/J93JxcLCbkB5DUhFpCnDrmJcZUXm
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+GitHub Repository: Add your GitHub repo URL here once uploaded
 
-## Learn More
+Manish Kumar
+🔗 devmanish.com
+📧 manishkumarmandrai@gmail.com
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+Once you upload your code to GitHub, replace the placeholder `https://github.com/yourusername/intercom-ui` with your actual repo URL.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Let me know if you want help preparing the GitHub repo or zip.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
