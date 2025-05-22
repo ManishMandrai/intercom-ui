@@ -4,7 +4,7 @@ This project is a fully responsive Intercom-style customer support chat interfac
 
 ## 🔗 Live Demo
 
-👉 [View Deployed App on Vercel](https://vercel.com/manishmandrais-projects/intercom-ui/J93JxcLCbkB5DUhFpCnDrmJcZUXm)
+👉 [View Deployed App on Vercel](https://intercom-ui.vercel.app/)
 
 ---
 
@@ -52,7 +52,7 @@ npm install
 npm run dev
 
 
-Live Site: https://vercel.com/manishmandrais-projects/intercom-ui/J93JxcLCbkB5DUhFpCnDrmJcZUXm
+Live Site:https://intercom-ui.vercel.app/
 
 GitHub Repository: Add your GitHub repo URL here once uploaded
 
